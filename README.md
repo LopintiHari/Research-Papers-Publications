@@ -20,7 +20,7 @@ and soil parameters, achieving 99.78% accuracy. The study demonstrates the
 effectiveness of automated hyperparameter optimization in improving ML model 
 performance for precision agriculture applications.
 
-📄 [View Paper](./Crop_Recommendation_Bayesian_RF_2025.pdf)
+📄 [View Paper](https://github.com/LopintiHari/Research-Papers-Publications/blob/main/CRS_ResearchPaper.pdf)
 
 ---
 
