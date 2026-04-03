@@ -36,7 +36,7 @@ feature extraction combined with ML classifiers to map emotional states to
 engagement metrics, capable of handling multiple faces simultaneously in 
 live classroom environments.
 
-📄 [View Paper](https://github.com/LopintiHari/Research-Papers-Publications/blob/main/SED_ResearchPaper.pdf)
+📄 [View Paper](https://github.com/LopintiHari/Research-Papers-Publications/raw/main/SED_ResearchPaper.pdf)
 
 ---
 
