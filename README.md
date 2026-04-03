@@ -36,7 +36,7 @@ feature extraction combined with ML classifiers to map emotional states to
 engagement metrics, capable of handling multiple faces simultaneously in 
 live classroom environments.
 
-📄 [View Paper](./Student_Engagement_Detection_VisualComputer_2025.pdf)
+📄 [View Paper](https://github.com/LopintiHari/Research-Papers-Publications/blob/main/SED_ResearchPaper.pdf)
 
 ---
 
